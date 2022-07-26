@@ -1,0 +1,19 @@
+#pbj-text,#ramen-text{
+    text-decoration:none;
+    color:black;
+}
+
+#pbj-text:hover,#ramen-text:hover{
+    color:white;
+    background:black;
+}
+
+
+
+.footer-container{
+    display:flex;
+    justify-content:space-between;
+    padding:1rem;
+    border:2px solid black;
+    width:100%;
+}
